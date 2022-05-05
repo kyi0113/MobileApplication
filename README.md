@@ -2,7 +2,7 @@
 Personal Repository showcasing my CSC 4360 Mobile Application Development Final Project.
 
 # What is it? #
-This solo project is designed to be a user friendly, android application for customers looking to analyze their daily and monthly spending habits. The inspiration behind this project is influenced by my personal desire to create a healthy spending habit while also utilizing the course material I learned from lecture to formulate a simple finance application.
+This solo project is designed to be a user friendly, android application for customers looking to analyze their daily and monthly spending habits. It's purpose is to allow users to have a platform to monitor their spending habits by analyzing each day's entry logs for the four main categories given by the application. Within each entry log, the user has the ability to also annotate each entry and update the notes if needed. 
 
 # Purpose of Assignment: #
 Integrate concepts and materials learned from lectures to produce a solo, final project inspired by my personal desire to learn good budgeting habits.
