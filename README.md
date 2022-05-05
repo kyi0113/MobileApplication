@@ -11,7 +11,7 @@ This solo project is designed to be a user friendly, android application for cus
 - VSCode and Flutter general usage.
 
 # ScreenShots #
-Login Screen:
+## Login Screen: ##
 ![Login Screen](https://user-images.githubusercontent.com/72426900/166938012-5e91e873-8194-48a0-900e-16aaabb0c08e.JPG)
 
 ## Registration Screen: ##
