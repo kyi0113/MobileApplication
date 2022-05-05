@@ -1,6 +1,4 @@
 # MobileApplication #
-?MadeFor=VSCode-square&logo=appveyor
-
 Personal Repository showcasing my CSC 4360 Mobile Application Development Final Project.
 
 # Purpose of Assignment: #
