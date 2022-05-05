@@ -1,8 +1,11 @@
 # MobileApplication #
 Personal Repository showcasing my CSC 4360 Mobile Application Development Final Project.
 
-# Purpose of Assignment: #
+# What is it? #
 This solo project is designed to be a user friendly, android application for customers looking to analyze their daily and monthly spending habits. The inspiration behind this project is influenced by my personal desire to create a healthy spending habit while also utilizing the course material I learned from lecture to formulate a simple finance application.
+
+# Purpose of Assignment: #
+Integrate concepts and materials learned from lectures to produce a solo, final project inspired by my personal desire to learn good budgeting habits.
 
 # Challenges: #
 - Integrating and learning Dart programming Language.
