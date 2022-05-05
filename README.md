@@ -10,6 +10,9 @@ This solo project is designed to be a user friendly, android application for cus
 - Implementation of Firestore database and Authentication.
 - VSCode and Flutter general usage.
 
+# Video Demo: #
+https://www.youtube.com/watch?v=eIyIEI1bRcU
+
 # ScreenShots #
 ### Login Screen: ###
 ![Login Screen](https://user-images.githubusercontent.com/72426900/166938012-5e91e873-8194-48a0-900e-16aaabb0c08e.JPG)
@@ -28,7 +31,3 @@ This solo project is designed to be a user friendly, android application for cus
 
 ### Calendar Entry for that day: ###
 ![calendar entry screen](https://user-images.githubusercontent.com/72426900/166938117-8588fe4d-8609-4fd9-8419-3f314ce4e8be.JPG)
-
-
-# Video Demo: #
-https://www.youtube.com/watch?v=eIyIEI1bRcU
